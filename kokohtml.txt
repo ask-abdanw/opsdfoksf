@@ -1,0 +1,17 @@
+<doctyper html>
+<html>
+
+
+<h1 style="background-color:powdernavyblue;font-family:verdana;color:purple;border:100px solid green;text-align:center;font-size:90%;"> gå ut av denne nett siden </h1>
+
+
+
+<iframe width="350" height="350" src="https://www.youtube.com/embed/7Nsf2pI21wA?si=7CAu7TZYeo0IlqKy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </h1>
+
+<iframe width="350" height="350" src="https://www.youtube.com/embed/r4SuVKsyqFg?si=UhGtRcTAzGDt_PbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </h1>
+
+
+
+<body>
+ <button onclick="window.location.hrfe = 'knapp2.html ';">hjemmesiden</button> </h1>
+
